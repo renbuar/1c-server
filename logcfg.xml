@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://v8.1c.ru/v8/tech-log">
+        <log location="/home/usr1cv8/log" history="96">
+                <event>
+                        <eq property="name" value="DBPOSTGRS"/>
+                </event>
+                <event>
+                        <eq property="name" value="SDBL"/>
+                </event>
+                <event>
+                        <eq property="name" value="EXCP"/>
+                </event>
+                <property name="all"/>
+        </log>
+</config>
